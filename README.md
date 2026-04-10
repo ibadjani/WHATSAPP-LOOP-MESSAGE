@@ -166,9 +166,8 @@ sent = counter;
 
 ## 👨‍💻 Author
 
-**Ibad**
-Student — Air University Islamabad, Faculty of Computing & AI
-
+**Ibad Ullah**
+Student of Software Enginering 
 ---
 
 ## 📄 License
